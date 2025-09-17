@@ -1,5 +1,0 @@
-# The Barn
-
-----
-
-Color: Red
